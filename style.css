@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f5e6e6;
+}
+#about {
+  background-color: #f7f2f3;
+}
+#project {
+  background-color: #f5e6e6;
+}
+#top-cards .container {
+  margin-top: 30px;
+}
+#top-cards .card {
+  border-radius: 10px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+#top-cards .card img {
+  border-radius: 0px;
+}
+#top-cards .card:hover {
+  transform: translateY(-10px);
+}
+#footer {
+  background-color: #f5e6e6;
+}
